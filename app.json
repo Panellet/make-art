@@ -1,0 +1,22 @@
+{
+  "name": "draw",
+  "description": "App to learn programming using a basic CoffeeScript drawing API",
+  "website": "https://github.com/KanoComputing/kano-draw",
+  "repository": "https://github.com/KanoComputing/kano-draw",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
